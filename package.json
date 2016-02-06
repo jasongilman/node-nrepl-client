@@ -1,7 +1,7 @@
 {
-  "name": "nrepl-client",
+  "name": "jg-nrepl-client",
   "version": "0.2.3",
-  "description": "node client to interact with a Clojure nREPL server.",
+  "description": "Temporary fork of node-nrepl-client waiting for https://github.com/rksm/node-nrepl-client/issues/8",
   "main": "src/nrepl-client.js",
   "scripts": {
     "test": "node_modules/nodeunit/bin/nodeunit tests/tests.js --reporter minimal"

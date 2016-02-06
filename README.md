@@ -1,3 +1,10 @@
+# This is a temporary copy of node.js nREPL client.
+
+This is a temporary fork of node.js nREPL client until [this issue](https://github.com/rksm/node-nrepl-client/issues/8) is resolved by publishing a new version of the original client.
+
+
+
+
 # node.js nREPL client [![Build Status](https://travis-ci.org/rksm/node-nrepl-client.png?branch=master)](https://travis-ci.org/rksm/node-nrepl-client)
 
 Connects node.js as a nrepl client to a [Clojure nrepl server](https://github.com/clojure/tools.nrepl).
